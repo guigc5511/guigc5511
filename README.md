@@ -1,8 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Guilherme%20Silva&fontSize=30&fontColor=fff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Guilherme+Cardoso;I'm+20+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
+## 📚 Atualmente estudando:
+- Lógica de programação
+- Python
+- SQL
+- Git e GitHub
 
-### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+## 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
+
+## 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guigc5511&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigc5511&layout=compact&theme=dark)
+
+## 📂 Projetos
+🚧 Em breve: projetos de lógica, Python e SQL
 
 
