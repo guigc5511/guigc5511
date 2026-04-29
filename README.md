@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Guilherme%20Silva&fontSize=30&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Guilherme%20Cardoso&fontSize=30&fontColor=fff"/>
 
 ## 📚 Atualmente estudando:
 - Lógica de programação
